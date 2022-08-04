@@ -1,1 +1,2 @@
 # ProjektBiblioteka
+ProjektBiblioteka był moim pierwszym, większym projektem w Javie, który rozwijałem w ramach kursu tego języka. Jest to program CRUD, zbudowany na potrzeby przykładowej biblioteki. Dane były w nim zapisywane do 2 rodzajów plików - CSV i SERIAL (zapisywanie danych o książce A do pliku CSV nie zapisze go do pliku SERIAL). Początkowo w folderach nie ma plików z danymi, ponieważ trzeba je wygenerować wprowadzając dane w programie.
